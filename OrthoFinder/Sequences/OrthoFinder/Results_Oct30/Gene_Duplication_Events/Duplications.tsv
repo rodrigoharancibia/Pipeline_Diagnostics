@@ -1,0 +1,226 @@
+Orthogroup	Species Tree Node	Gene Tree Node	Support	Type	Genes 1	Genes 2
+OG0000000	N0	n0	1.0	Non-Terminal	protein_3_WP_154804042.1, protein_2_WP_206158980.1, protein_WP_154293416.1	protein_WP_154293406.1, protein_2_WP_206158889.1, protein_3_WP_154804235.1, protein_WP_038674705.1, protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1, protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1, protein_2_WP_206158888.1, protein_WP_154293405.1, protein_3_WP_154804314.1, protein_2_WP_196819693.1, protein_2_WP_206158936.1, protein_WP_154293408.1, protein_3_WP_154804187.1, protein_3_WP_154804185.1, protein_WP_154293409.1
+OG0000000	N0	n3	1.0	Non-Terminal	protein_WP_154293406.1, protein_2_WP_206158889.1, protein_3_WP_154804235.1, protein_WP_038674705.1, protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1, protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1, protein_2_WP_206158888.1, protein_WP_154293405.1, protein_3_WP_154804314.1, protein_2_WP_196819693.1	protein_2_WP_206158936.1, protein_WP_154293408.1, protein_3_WP_154804187.1, protein_3_WP_154804185.1, protein_WP_154293409.1
+OG0000000	N0	n4	0.6666666666666666	Non-Terminal	protein_WP_154293406.1, protein_2_WP_206158889.1, protein_3_WP_154804235.1, protein_WP_038674705.1, protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1, protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1, protein_2_WP_206158888.1, protein_WP_154293405.1	protein_3_WP_154804314.1, protein_2_WP_196819693.1
+OG0000000	N0	n5	1.0	Non-Terminal	protein_WP_154293406.1, protein_2_WP_206158889.1, protein_3_WP_154804235.1	protein_WP_038674705.1, protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1, protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1, protein_2_WP_206158888.1, protein_WP_154293405.1
+OG0000000	N0	n8	0.3333333333333333	Non-Terminal	protein_WP_038674705.1	protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1, protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1, protein_2_WP_206158888.1, protein_WP_154293405.1
+OG0000000	N0	n9	0.6666666666666666	Non-Terminal	protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1, protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1	protein_2_WP_206158888.1, protein_WP_154293405.1
+OG0000000	N0	n10	1.0	Non-Terminal	protein_2_WP_206158756.1, protein_WP_014623570.1, protein_3_WP_154804422.1	protein_WP_038674024.1, protein_3_WP_154803593.1, protein_2_WP_206158919.1, protein_2_WP_206152400.1
+OG0000000	protein_2	n15	1.0	Terminal	protein_2_WP_206158919.1	protein_2_WP_206152400.1
+OG0000000	N0	n19	0.6666666666666666	Non-Terminal	protein_WP_154293408.1, protein_3_WP_154804187.1	protein_3_WP_154804185.1, protein_WP_154293409.1
+OG0000001	N1	n0	1.0	Non-Terminal	protein_2_WP_249093352.1, protein_3_WP_232013867.1	protein_2_WP_229297449.1, protein_3_WP_227687766.1, protein_2_WP_249093281.1, protein_3_WP_154804170.1, protein_2_WP_249093278.1, protein_3_WP_232013883.1, protein_3_WP_154803728.1, protein_2_WP_111678241.1, protein_2_WP_206158977.1, protein_3_WP_154804067.1, protein_3_WP_154804064.1, protein_2_WP_249093348.1, protein_3_WP_232013928.1, protein_3_WP_232013885.1, protein_2_WP_249093298.1, protein_3_WP_232013930.1, protein_2_WP_231191967.1
+OG0000001	N1	n2	1.0	Non-Terminal	protein_2_WP_229297449.1, protein_3_WP_227687766.1, protein_2_WP_249093281.1, protein_3_WP_154804170.1	protein_2_WP_249093278.1, protein_3_WP_232013883.1, protein_3_WP_154803728.1, protein_2_WP_111678241.1, protein_2_WP_206158977.1, protein_3_WP_154804067.1, protein_3_WP_154804064.1, protein_2_WP_249093348.1, protein_3_WP_232013928.1, protein_3_WP_232013885.1, protein_2_WP_249093298.1, protein_3_WP_232013930.1, protein_2_WP_231191967.1
+OG0000001	N1	n3	1.0	Non-Terminal	protein_2_WP_229297449.1, protein_3_WP_227687766.1	protein_2_WP_249093281.1, protein_3_WP_154804170.1
+OG0000001	N1	n6	1.0	Non-Terminal	protein_2_WP_249093278.1, protein_3_WP_232013883.1, protein_3_WP_154803728.1, protein_2_WP_111678241.1, protein_2_WP_206158977.1, protein_3_WP_154804067.1, protein_3_WP_154804064.1	protein_2_WP_249093348.1, protein_3_WP_232013928.1, protein_3_WP_232013885.1, protein_2_WP_249093298.1, protein_3_WP_232013930.1, protein_2_WP_231191967.1
+OG0000001	N1	n7	0.5	Non-Terminal	protein_2_WP_249093278.1, protein_3_WP_232013883.1, protein_3_WP_154803728.1, protein_2_WP_111678241.1, protein_2_WP_206158977.1	protein_3_WP_154804067.1, protein_3_WP_154804064.1
+OG0000001	N1	n8	1.0	Non-Terminal	protein_2_WP_249093278.1, protein_3_WP_232013883.1	protein_3_WP_154803728.1, protein_2_WP_111678241.1, protein_2_WP_206158977.1
+OG0000001	protein_2	n11	1.0	Terminal	protein_2_WP_111678241.1	protein_2_WP_206158977.1
+OG0000001	protein_3	n12	1.0	Terminal	protein_3_WP_154804067.1	protein_3_WP_154804064.1
+OG0000001	N1	n13	0.5	Non-Terminal	protein_2_WP_249093348.1	protein_3_WP_232013928.1, protein_3_WP_232013885.1, protein_2_WP_249093298.1, protein_3_WP_232013930.1, protein_2_WP_231191967.1
+OG0000001	N1	n14	0.5	Non-Terminal	protein_3_WP_232013928.1	protein_3_WP_232013885.1, protein_2_WP_249093298.1, protein_3_WP_232013930.1, protein_2_WP_231191967.1
+OG0000001	N1	n15	1.0	Non-Terminal	protein_3_WP_232013885.1, protein_2_WP_249093298.1	protein_3_WP_232013930.1, protein_2_WP_231191967.1
+OG0000002	N0	n0	1.0	Non-Terminal	protein_3_WP_154803614.1, protein_WP_014623340.1, protein_2_WP_111678343.1	protein_2_WP_012515169.1, protein_3_WP_012515169.1, protein_WP_014622589.1, protein_2_WP_111690012.1, protein_2_WP_206158739.1, protein_3_WP_154803985.1, protein_3_WP_154803984.1, protein_3_WP_154803675.1
+OG0000002	N0	n3	0.6666666666666666	Non-Terminal	protein_2_WP_012515169.1, protein_3_WP_012515169.1, protein_WP_014622589.1	protein_2_WP_111690012.1, protein_2_WP_206158739.1, protein_3_WP_154803985.1, protein_3_WP_154803984.1, protein_3_WP_154803675.1
+OG0000002	N1	n6	0.5	Non-Terminal	protein_2_WP_111690012.1	protein_2_WP_206158739.1, protein_3_WP_154803985.1, protein_3_WP_154803984.1, protein_3_WP_154803675.1
+OG0000002	protein_3	n8	1.0	Terminal	protein_3_WP_154803985.1, protein_3_WP_154803984.1	protein_3_WP_154803675.1
+OG0000002	protein_3	n9	1.0	Terminal	protein_3_WP_154803985.1	protein_3_WP_154803984.1
+OG0000003	N1	n0	1.0	Non-Terminal	protein_2_WP_206158703.1, protein_3_WP_154803652.1, protein_3_WP_154803634.1	protein_2_WP_206158976.1, protein_3_WP_154804078.1, protein_2_WP_249093173.1, protein_3_WP_154804077.1, protein_2_WP_206158697.1, protein_3_WP_269471212.1, protein_2_WP_206158975.1, protein_2_WP_249093326.1
+OG0000003	protein_3	n2	1.0	Terminal	protein_3_WP_154803652.1	protein_3_WP_154803634.1
+OG0000003	N1	n3	0.5	Non-Terminal	protein_2_WP_206158976.1	protein_3_WP_154804078.1, protein_2_WP_249093173.1, protein_3_WP_154804077.1, protein_2_WP_206158697.1, protein_3_WP_269471212.1, protein_2_WP_206158975.1, protein_2_WP_249093326.1
+OG0000003	N1	n4	1.0	Non-Terminal	protein_3_WP_154804078.1, protein_2_WP_249093173.1, protein_3_WP_154804077.1, protein_2_WP_206158697.1	protein_3_WP_269471212.1, protein_2_WP_206158975.1, protein_2_WP_249093326.1
+OG0000003	N1	n5	1.0	Non-Terminal	protein_3_WP_154804078.1, protein_2_WP_249093173.1	protein_3_WP_154804077.1, protein_2_WP_206158697.1
+OG0000003	protein_2	n9	1.0	Terminal	protein_2_WP_206158975.1	protein_2_WP_249093326.1
+OG0000004	N0	n0	1.0	Non-Terminal	protein_2_WP_012680102.1, protein_3_WP_012680102.1, protein_WP_014623475.1	protein_3_WP_232013961.1, protein_WP_014623091.1, protein_2_WP_012515878.1, protein_3_WP_012515878.1, protein_3_WP_043040285.1, protein_WP_012515254.1, protein_2_WP_021320504.1
+OG0000004	N0	n3	0.3333333333333333	Non-Terminal	protein_3_WP_232013961.1	protein_WP_014623091.1, protein_2_WP_012515878.1, protein_3_WP_012515878.1, protein_3_WP_043040285.1, protein_WP_012515254.1, protein_2_WP_021320504.1
+OG0000004	N0	n4	1.0	Non-Terminal	protein_WP_014623091.1, protein_2_WP_012515878.1, protein_3_WP_012515878.1	protein_3_WP_043040285.1, protein_WP_012515254.1, protein_2_WP_021320504.1
+OG0000005	N0	n0	1.0	Non-Terminal	protein_3_WP_043029925.1, protein_2_WP_012677665.1, protein_WP_012515962.1	protein_2_WP_206159067.1, protein_3_WP_014622809.1, protein_WP_014622809.1, protein_WP_038674325.1, protein_3_WP_012678019.1, protein_2_WP_012678019.1
+OG0000005	N0	n3	1.0	Non-Terminal	protein_2_WP_206159067.1, protein_3_WP_014622809.1, protein_WP_014622809.1	protein_WP_038674325.1, protein_3_WP_012678019.1, protein_2_WP_012678019.1
+OG0000006	protein	n0	1.0	Terminal	protein_WP_014622247.1	protein_WP_228269602.1, protein_WP_228269611.1, protein_WP_228269585.1, protein_WP_228269586.1, protein_WP_229296624.1, protein_WP_228269610.1, protein_WP_228269588.1
+OG0000006	protein	n1	1.0	Terminal	protein_WP_228269602.1	protein_WP_228269611.1, protein_WP_228269585.1, protein_WP_228269586.1, protein_WP_229296624.1, protein_WP_228269610.1, protein_WP_228269588.1
+OG0000006	protein	n2	1.0	Terminal	protein_WP_228269611.1, protein_WP_228269585.1, protein_WP_228269586.1	protein_WP_229296624.1, protein_WP_228269610.1, protein_WP_228269588.1
+OG0000006	protein	n3	1.0	Terminal	protein_WP_228269611.1	protein_WP_228269585.1, protein_WP_228269586.1
+OG0000006	protein	n4	1.0	Terminal	protein_WP_228269585.1	protein_WP_228269586.1
+OG0000006	protein	n5	1.0	Terminal	protein_WP_229296624.1	protein_WP_228269610.1, protein_WP_228269588.1
+OG0000006	protein	n6	1.0	Terminal	protein_WP_228269610.1	protein_WP_228269588.1
+OG0000007	N0	n0	1.0	Non-Terminal	protein_2_WP_043025989.1, protein_3_WP_154803793.1, protein_3_WP_080312424.1, protein_2_WP_206158670.1, protein_WP_014623012.1	protein_WP_038674222.1, protein_3_WP_012515783.1, protein_2_WP_138119419.1
+OG0000007	N0	n1	0.6666666666666666	Non-Terminal	protein_2_WP_043025989.1, protein_3_WP_154803793.1	protein_3_WP_080312424.1, protein_2_WP_206158670.1, protein_WP_014623012.1
+OG0000008	N1	n1	1.0	Non-Terminal	protein_2_WP_206158947.1, protein_2_WP_206156370.1, protein_3_WP_227687790.1, protein_3_WP_043030553.1, protein_2_WP_043030553.1	protein_3_WP_154803730.1, protein_2_WP_043039143.1
+OG0000008	N1	n2	0.5	Non-Terminal	protein_2_WP_206158947.1	protein_2_WP_206156370.1, protein_3_WP_227687790.1, protein_3_WP_043030553.1, protein_2_WP_043030553.1
+OG0000008	N1	n3	1.0	Non-Terminal: STRIDE	protein_2_WP_206156370.1, protein_3_WP_227687790.1	protein_3_WP_043030553.1, protein_2_WP_043030553.1
+OG0000009	protein_3	n0	1.0	Terminal	protein_3_WP_012678587.1	protein_3_WP_154803732.1, protein_3_WP_043030556.1, protein_3_WP_154804065.1, protein_3_WP_043040228.1, protein_3_WP_154804168.1, protein_3_WP_154803729.1, protein_3_WP_043052835.1
+OG0000009	protein_3	n1	1.0	Terminal	protein_3_WP_154803732.1, protein_3_WP_043030556.1, protein_3_WP_154804065.1	protein_3_WP_043040228.1, protein_3_WP_154804168.1, protein_3_WP_154803729.1, protein_3_WP_043052835.1
+OG0000009	protein_3	n2	1.0	Terminal	protein_3_WP_154803732.1, protein_3_WP_043030556.1	protein_3_WP_154804065.1
+OG0000009	protein_3	n3	1.0	Terminal	protein_3_WP_154803732.1	protein_3_WP_043030556.1
+OG0000009	protein_3	n4	1.0	Terminal	protein_3_WP_043040228.1, protein_3_WP_154804168.1	protein_3_WP_154803729.1, protein_3_WP_043052835.1
+OG0000009	protein_3	n5	1.0	Terminal	protein_3_WP_043040228.1	protein_3_WP_154804168.1
+OG0000009	protein_3	n6	1.0	Terminal	protein_3_WP_154803729.1	protein_3_WP_043052835.1
+OG0000010	N0	n0	0.6666666666666666	Non-Terminal	protein_3_WP_154803804.1, protein_WP_014622989.1, protein_2_WP_138119407.1	protein_WP_014623588.1, protein_WP_038674716.1, protein_WP_014622136.1, protein_3_WP_014622136.1
+OG0000010	N0	n3	0.3333333333333333	Non-Terminal	protein_WP_014623588.1, protein_WP_038674716.1	protein_WP_014622136.1, protein_3_WP_014622136.1
+OG0000010	protein	n4	1.0	Terminal	protein_WP_014623588.1	protein_WP_038674716.1
+OG0000011	N0	n0	1.0	Non-Terminal	protein_2_WP_012678588.1, protein_3_WP_014623139.1, protein_WP_014622468.1, protein_WP_014623139.1	protein_3_WP_014622246.1, protein_2_WP_014622246.1, protein_WP_014622246.1
+OG0000011	protein	n3	1.0	Terminal	protein_WP_014622468.1	protein_WP_014623139.1
+OG0000012	protein	n1	1.0	Terminal	protein_WP_154293414.1, protein_WP_014623219.1, protein_WP_154293449.1	protein_WP_014622292.1, protein_WP_154293413.1, protein_WP_038674123.1
+OG0000012	protein	n2	1.0	Terminal	protein_WP_154293414.1, protein_WP_014623219.1	protein_WP_154293449.1
+OG0000012	protein	n3	1.0	Terminal	protein_WP_154293414.1	protein_WP_014623219.1
+OG0000012	protein	n4	1.0	Terminal	protein_WP_014622292.1	protein_WP_154293413.1, protein_WP_038674123.1
+OG0000012	protein	n5	1.0	Terminal	protein_WP_154293413.1	protein_WP_038674123.1
+OG0000013	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_014622329.1, protein_3_WP_012515009.1	protein_3_WP_232013874.1, protein_WP_014623126.1, protein_2_WP_231871326.1, protein_2_WP_206158684.1, protein_2_WP_249093338.1
+OG0000013	protein_2	n4	1.0	Terminal	protein_2_WP_231871326.1	protein_2_WP_206158684.1, protein_2_WP_249093338.1
+OG0000013	protein_2	n5	1.0	Terminal	protein_2_WP_206158684.1	protein_2_WP_249093338.1
+OG0000014	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_154293427.1, protein_3_WP_154804007.1	protein_3_WP_154804003.1, protein_WP_228269622.1, protein_WP_228269590.1, protein_WP_154293448.1, protein_WP_014622646.1
+OG0000014	protein	n3	1.0	Terminal	protein_WP_228269622.1, protein_WP_228269590.1, protein_WP_154293448.1	protein_WP_014622646.1
+OG0000014	protein	n4	1.0	Terminal	protein_WP_228269622.1	protein_WP_228269590.1, protein_WP_154293448.1
+OG0000014	protein	n5	1.0	Terminal	protein_WP_228269590.1	protein_WP_154293448.1
+OG0000015	protein	n1	1.0	Terminal	protein_WP_014623413.1	protein_WP_014622821.1
+OG0000015	N1	n2	0.5	Non-Terminal	protein_2_WP_206158730.1	protein_3_WP_154803867.1, protein_2_WP_231871332.1, protein_3_WP_154803577.1, protein_2_WP_249093119.1
+OG0000015	N1	n3	1.0	Non-Terminal	protein_3_WP_154803867.1, protein_2_WP_231871332.1	protein_3_WP_154803577.1, protein_2_WP_249093119.1
+OG0000016	N0	n0	1.0	Non-Terminal	protein_WP_014623687.1, protein_3_WP_154804265.1, protein_3_WP_154804266.1, protein_2_WP_206158846.1	protein_2_WP_206158844.1, protein_WP_014623686.1, protein_3_WP_012516509.1
+OG0000016	protein_3	n3	1.0	Terminal	protein_3_WP_154804265.1	protein_3_WP_154804266.1
+OG0000017	N0	n0	1.0	Non-Terminal	protein_3_WP_043052723.1, protein_WP_021320365.1, protein_2_WP_115250591.1	protein_WP_021320244.1, protein_2_WP_115250537.1, protein_2_WP_111677630.1, protein_3_WP_151374905.1
+OG0000017	protein_2	n5	1.0	Terminal	protein_2_WP_115250537.1	protein_2_WP_111677630.1
+OG0000018	protein_2	n1	1.0	Terminal	protein_2_WP_206152443.1	protein_2_WP_115250604.1
+OG0000018	N0	n2	0.6666666666666666	Non-Terminal	protein_WP_038674160.1, protein_3_WP_041785278.1	protein_WP_038674538.1, protein_3_WP_111692196.1, protein_3_WP_154804121.1
+OG0000018	protein_3	n5	1.0	Terminal	protein_3_WP_111692196.1	protein_3_WP_154804121.1
+OG0000019	N0	n1	0.6666666666666666	Non-Terminal	protein_WP_074632251.1, protein_2_WP_074632251.1	protein_2_WP_080332469.1, protein_WP_079993908.1, protein_WP_080004971.1, protein_2_WP_269457116.1
+OG0000019	N0	n3	0.6666666666666666	Non-Terminal	protein_2_WP_080332469.1, protein_WP_079993908.1	protein_WP_080004971.1, protein_2_WP_269457116.1
+OG0000020	protein_2	n0	1.0	Terminal	protein_2_WP_206158885.1	protein_2_WP_206158736.1, protein_2_WP_206158737.1, protein_2_WP_043039135.1, protein_2_WP_206158718.1, protein_2_WP_014622678.1, protein_2_WP_014622390.1
+OG0000020	protein_2	n1	1.0	Terminal	protein_2_WP_206158736.1, protein_2_WP_206158737.1	protein_2_WP_043039135.1, protein_2_WP_206158718.1, protein_2_WP_014622678.1, protein_2_WP_014622390.1
+OG0000020	protein_2	n2	1.0	Terminal	protein_2_WP_206158736.1	protein_2_WP_206158737.1
+OG0000020	protein_2	n3	1.0	Terminal	protein_2_WP_043039135.1, protein_2_WP_206158718.1	protein_2_WP_014622678.1, protein_2_WP_014622390.1
+OG0000020	protein_2	n4	1.0	Terminal	protein_2_WP_043039135.1	protein_2_WP_206158718.1
+OG0000020	protein_2	n5	1.0	Terminal	protein_2_WP_014622678.1	protein_2_WP_014622390.1
+OG0000021	N0	n0	1.0	Non-Terminal	protein_2_WP_012514940.1, protein_WP_012514940.1, protein_3_WP_021320349.1	protein_WP_014623461.1, protein_2_WP_012516278.1, protein_3_WP_154804371.1
+OG0000022	protein	n1	1.0	Terminal	protein_WP_012678587.1	protein_WP_014623141.1, protein_WP_012515936.1, protein_WP_014622249.1, protein_WP_014622462.1
+OG0000022	protein	n2	1.0	Terminal	protein_WP_014623141.1	protein_WP_012515936.1, protein_WP_014622249.1, protein_WP_014622462.1
+OG0000022	protein	n3	1.0	Terminal	protein_WP_012515936.1	protein_WP_014622249.1, protein_WP_014622462.1
+OG0000022	protein	n4	1.0	Terminal	protein_WP_014622249.1	protein_WP_014622462.1
+OG0000023	N0	n0	1.0	Non-Terminal	protein_3_WP_154804144.1, protein_2_WP_012678544.1, protein_WP_014622278.1	protein_3_WP_012516279.1, protein_2_WP_012516279.1, protein_WP_012516279.1
+OG0000024	N0	n0	1.0	Non-Terminal	protein_WP_012679465.1, protein_3_WP_154803878.1, protein_2_WP_037578379.1	protein_2_WP_115251425.1, protein_3_WP_154804284.1, protein_WP_012516470.1
+OG0000025	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_038674323.1, protein_2_WP_111678479.1	protein_3_WP_154803576.1, protein_2_WP_115250909.1, protein_WP_014623415.1, protein_WP_012677437.1
+OG0000025	protein	n4	1.0	Terminal	protein_WP_014623415.1	protein_WP_012677437.1
+OG0000026	protein_3	n2	1.0	Terminal	protein_3_WP_154803928.1	protein_3_WP_115267186.1, protein_3_WP_154804311.1, protein_3_WP_154804310.1
+OG0000026	protein_3	n3	1.0	Terminal	protein_3_WP_115267186.1	protein_3_WP_154804311.1, protein_3_WP_154804310.1
+OG0000026	protein_3	n4	1.0	Terminal	protein_3_WP_154804311.1	protein_3_WP_154804310.1
+OG0000027	N0	n0	1.0	Non-Terminal	protein_2_WP_021320630.1, protein_WP_012678129.1, protein_3_WP_154803943.1	protein_3_WP_043025968.1, protein_WP_014622997.1, protein_2_WP_154299016.1
+OG0000028	N0	n0	0.6666666666666666	Non-Terminal	protein_3_WP_154803669.1, protein_2_WP_206158911.1	protein_3_WP_043052249.1, protein_WP_012679838.1, protein_2_WP_012679838.1, protein_WP_014622160.1
+OG0000028	N0	n3	0.3333333333333333	Non-Terminal	protein_WP_012679838.1, protein_2_WP_012679838.1	protein_WP_014622160.1
+OG0000029	N1	n1	1.0	Non-Terminal	protein_3_WP_043025814.1, protein_2_WP_015057298.1, protein_2_WP_206158625.1	protein_2_WP_206158896.1, protein_3_WP_043024949.1
+OG0000029	protein_2	n3	1.0	Terminal	protein_2_WP_015057298.1	protein_2_WP_206158625.1
+OG0000030	N0	n0	0.6666666666666666	Non-Terminal	protein_3_WP_154803632.1, protein_2_WP_206158932.1	protein_2_WP_138119633.1, protein_3_WP_154804190.1, protein_WP_014622213.1, protein_WP_014623300.1
+OG0000030	N0	n3	0.3333333333333333	Non-Terminal	protein_3_WP_154804190.1, protein_WP_014622213.1	protein_WP_014623300.1
+OG0000031	protein_3	n1	1.0	Terminal	protein_3_WP_154804167.1	protein_3_WP_043051917.1
+OG0000031	N0	n2	0.6666666666666666	Non-Terminal: STRIDE	protein_WP_038674588.1, protein_2_WP_115250547.1	protein_WP_014622255.1, protein_2_WP_206158954.1
+OG0000032	N0	n0	0.6666666666666666	Non-Terminal	protein_2_WP_115250603.1, protein_3_WP_111690253.1, protein_3_WP_043029899.1, protein_WP_014623124.1	protein_2_WP_043039122.1, protein_WP_014622327.1
+OG0000032	protein_3	n3	1.0	Terminal	protein_3_WP_111690253.1	protein_3_WP_043029899.1
+OG0000033	protein	n1	1.0	Terminal	protein_WP_014622328.1	protein_WP_014623125.1
+OG0000033	protein_3	n3	1.0	Terminal	protein_3_WP_042670895.1	protein_3_WP_232013876.1
+OG0000033	protein_2	n4	1.0	Terminal	protein_2_WP_231146773.1	protein_2_WP_249093152.1
+OG0000034	N0	n0	1.0	Non-Terminal	protein_WP_014622684.1, protein_2_WP_206156318.1, protein_3_WP_154803950.1	protein_3_WP_154804091.1, protein_WP_014622399.1, protein_2_WP_206156393.1
+OG0000035	N0	n0	1.0	Non-Terminal	protein_WP_014622449.1, protein_3_WP_154804072.1, protein_2_WP_043030545.1	protein_3_WP_154803945.1, protein_WP_014622702.1, protein_2_WP_111690045.1
+OG0000036	N0	n0	1.0	Non-Terminal	protein_WP_021320231.1, protein_3_WP_021320231.1, protein_2_WP_021320231.1	protein_2_WP_012515667.1, protein_3_WP_012515667.1, protein_WP_014622913.1
+OG0000037	N0	n0	1.0	Non-Terminal	protein_WP_014623324.1, protein_2_WP_206158713.1, protein_3_WP_154803623.1	protein_WP_014623099.1, protein_3_WP_021320936.1, protein_2_WP_206152450.1
+OG0000038	N0	n0	0.6666666666666666	Non-Terminal	protein_3_WP_154804282.1, protein_WP_014623662.1	protein_2_WP_206158803.1, protein_2_WP_206158811.1, protein_3_WP_154804287.1, protein_WP_154293455.1
+OG0000038	protein_2	n4	1.0	Terminal	protein_2_WP_206158803.1	protein_2_WP_206158811.1
+OG0000039	N0	n0	1.0	Non-Terminal	protein_2_WP_012678520.1, protein_WP_038674566.1, protein_3_WP_012514977.1	protein_2_WP_041785288.1, protein_3_WP_021320395.1, protein_WP_021320395.1
+OG0000040	N0	n0	1.0	Non-Terminal	protein_2_WP_012677358.1, protein_3_WP_154804357.1, protein_WP_038674744.1	protein_2_WP_111678145.1, protein_WP_038674281.1, protein_3_WP_012677935.1
+OG0000041	N0	n0	1.0	Non-Terminal	protein_WP_154293443.1, protein_2_WP_206152509.1, protein_3_WP_154803826.1	protein_2_WP_206156356.1, protein_WP_038674455.1, protein_3_WP_154804043.1
+OG0000042	N0	n0	1.0	Non-Terminal	protein_WP_038674598.1, protein_2_WP_041785235.1, protein_3_WP_012678603.1	protein_2_WP_206158931.1, protein_WP_038674873.1, protein_3_WP_111710917.1
+OG0000043	protein_3	n2	1.0	Terminal	protein_3_WP_165627468.1	protein_3_WP_172954511.1, protein_3_WP_165626751.1
+OG0000043	protein_3	n3	1.0	Terminal	protein_3_WP_172954511.1	protein_3_WP_165626751.1
+OG0000043	protein	n4	1.0	Terminal	protein_WP_165620476.1	protein_WP_165620660.1
+OG0000044	N0	n1	0.6666666666666666	Non-Terminal: STRIDE	protein_WP_014623017.1, protein_3_WP_154804385.1	protein_3_WP_012515781.1, protein_WP_012515781.1
+OG0000045	N0	n1	0.6666666666666666	Non-Terminal: STRIDE	protein_WP_012515981.1, protein_2_WP_043039163.1	protein_WP_014623329.1, protein_2_WP_111678334.1
+OG0000046	protein	n1	1.0	Terminal	protein_WP_014622818.1, protein_WP_014622814.1	protein_WP_012516221.1, protein_WP_014622816.1
+OG0000046	protein	n2	1.0	Terminal	protein_WP_014622818.1	protein_WP_014622814.1
+OG0000046	protein	n3	1.0	Terminal	protein_WP_012516221.1	protein_WP_014622816.1
+OG0000047	protein_2	n2	1.0	Terminal	protein_2_WP_111678065.1	protein_2_WP_165627640.1
+OG0000047	protein_3	n3	1.0	Terminal	protein_3_WP_012677439.1	protein_3_WP_154803866.1
+OG0000048	protein_2	n2	1.0	Terminal	protein_2_WP_206158613.1	protein_2_WP_249093189.1, protein_2_WP_231871354.1
+OG0000048	protein_2	n3	1.0	Terminal	protein_2_WP_249093189.1	protein_2_WP_231871354.1
+OG0000049	protein_3	n2	1.0	Terminal	protein_3_WP_269471216.1, protein_3_WP_269471215.1	protein_3_WP_021320402.1
+OG0000049	protein_3	n3	1.0	Terminal	protein_3_WP_269471216.1	protein_3_WP_269471215.1
+OG0000050	N1	n1	1.0	Non-Terminal: STRIDE	protein_3_WP_154804000.1, protein_2_WP_111690001.1	protein_3_WP_154803990.1, protein_2_WP_206158990.1
+OG0000051	protein	n1	1.0	Terminal	protein_WP_014623178.1, protein_WP_014622158.1	protein_WP_038674783.1, protein_WP_014622157.1
+OG0000051	protein	n2	1.0	Terminal	protein_WP_014623178.1	protein_WP_014622158.1
+OG0000051	protein	n3	1.0	Terminal	protein_WP_038674783.1	protein_WP_014622157.1
+OG0000052	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_041788153.1, protein_2_WP_196819690.1, protein_3_WP_154804317.1	protein_3_WP_154803788.1, protein_WP_014622411.1
+OG0000053	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_154293432.1, protein_3_WP_154804005.1	protein_3_WP_043052920.1, protein_WP_038674412.1, protein_WP_014622649.1
+OG0000053	protein	n3	1.0	Terminal	protein_WP_038674412.1	protein_WP_014622649.1
+OG0000054	N0	n0	0.6666666666666666	Non-Terminal	protein_3_WP_154803650.1, protein_WP_014623223.1, protein_2_WP_111710705.1	protein_WP_014622686.1, protein_2_WP_206158996.1
+OG0000055	N1	n1	1.0	Non-Terminal	protein_2_WP_111678609.1, protein_3_WP_154804341.1	protein_3_WP_154804347.1, protein_2_WP_206158883.1
+OG0000056	N1	n1	1.0	Non-Terminal	protein_3_WP_043039483.1, protein_2_WP_043039483.1	protein_2_WP_206158685.1, protein_3_WP_154803736.1
+OG0000057	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_014623493.1, protein_3_WP_080332811.1	protein_3_WP_154803564.1, protein_WP_080004982.1, protein_WP_014623260.1
+OG0000057	protein	n3	1.0	Terminal	protein_WP_080004982.1	protein_WP_014623260.1
+OG0000058	N0	n0	0.6666666666666666	Non-Terminal	protein_WP_014623504.1, protein_WP_038674416.1, protein_3_WP_154803562.1	protein_3_WP_154803979.1, protein_WP_014623272.1
+OG0000058	protein	n2	1.0	Terminal	protein_WP_014623504.1	protein_WP_038674416.1
+OG0000059	N0	n0	0.6666666666666666	Non-Terminal	protein_2_WP_206158772.1, protein_WP_037579452.1	protein_WP_169724980.1, protein_2_WP_037579467.1, protein_2_WP_165620175.1
+OG0000059	protein_2	n3	1.0	Terminal	protein_2_WP_037579467.1	protein_2_WP_165620175.1
+OG0000060	protein_3	n2	1.0	Terminal	protein_3_WP_172954534.1	protein_3_WP_154803680.1, protein_3_WP_154803905.1
+OG0000060	protein_3	n3	1.0	Terminal	protein_3_WP_154803680.1	protein_3_WP_154803905.1
+OG0000061	N0	n0	0.6666666666666666	Non-Terminal	protein_3_WP_232013881.1, protein_WP_228269587.1	protein_WP_228269603.1, protein_3_WP_232013869.1, protein_3_WP_232013871.1
+OG0000061	protein_3	n3	1.0	Terminal	protein_3_WP_232013869.1	protein_3_WP_232013871.1
+OG0000062	protein	n2	1.0	Terminal	protein_WP_009662862.1	protein_WP_038674683.1
+OG0000063	protein	n2	1.0	Terminal	protein_WP_014622590.1	protein_WP_012515170.1
+OG0000064	protein_2	n2	1.0	Terminal	protein_2_WP_012516427.1	protein_2_WP_138119161.1
+OG0000065	protein_2	n2	1.0	Terminal	protein_2_WP_012516443.1	protein_2_WP_011106694.1
+OG0000066	protein_3	n2	1.0	Terminal	protein_3_WP_012678692.1	protein_3_WP_111690337.1
+OG0000067	protein_2	n2	1.0	Terminal	protein_2_WP_111678243.1	protein_2_WP_255313937.1
+OG0000068	protein_3	n2	1.0	Terminal	protein_3_WP_154803983.1	protein_3_WP_154804111.1
+OG0000069	protein_3	n2	1.0	Terminal	protein_3_WP_012678706.1	protein_3_WP_037578457.1
+OG0000070	protein_3	n2	1.0	Terminal	protein_3_WP_154804110.1	protein_3_WP_154804258.1
+OG0000071	protein	n2	1.0	Terminal	protein_WP_014622159.1	protein_WP_014623177.1
+OG0000072	protein_2	n2	1.0	Terminal	protein_2_WP_231146896.1	protein_2_WP_043038466.1
+OG0000073	protein_2	n2	1.0	Terminal	protein_2_WP_111678357.1	protein_2_WP_164335356.1
+OG0000074	protein_3	n2	1.0	Terminal	protein_3_WP_154804002.1	protein_3_WP_012678549.1
+OG0000075	protein_2	n2	1.0	Terminal	protein_2_WP_206158770.1	protein_2_WP_115250583.1
+OG0000076	protein	n0	1.0	Terminal	protein_WP_014622957.1	protein_WP_014622390.1, protein_WP_014623460.1, protein_WP_014622678.1
+OG0000076	protein	n1	1.0	Terminal	protein_WP_014622390.1, protein_WP_014623460.1	protein_WP_014622678.1
+OG0000076	protein	n2	1.0	Terminal	protein_WP_014622390.1	protein_WP_014623460.1
+OG0000077	protein	n1	1.0	Terminal	protein_WP_266095218.1	protein_WP_014622636.1, protein_WP_014622635.1
+OG0000077	protein	n2	1.0	Terminal	protein_WP_014622636.1	protein_WP_014622635.1
+OG0000078	protein_3	n1	1.0	Terminal	protein_3_WP_154804006.1	protein_3_WP_115250782.1
+OG0000078	protein	n2	1.0	Terminal	protein_WP_014622643.1	protein_WP_014622648.1
+OG0000079	protein_2	n2	1.0	Terminal	protein_2_WP_206158988.1	protein_2_WP_249093364.1
+OG0000080	protein_2	n2	1.0	Terminal	protein_2_WP_206158768.1	protein_2_WP_206159012.1
+OG0000081	protein	n1	1.0	Terminal	protein_WP_014622815.1	protein_WP_014623417.1, protein_WP_014622819.1
+OG0000081	protein	n2	1.0	Terminal	protein_WP_014623417.1	protein_WP_014622819.1
+OG0000082	protein_3	n2	1.0	Terminal	protein_3_WP_012679829.1	protein_3_WP_043030192.1
+OG0000083	protein_3	n2	1.0	Terminal	protein_3_WP_154804321.1	protein_3_WP_111721714.1
+OG0000084	protein_3	n2	1.0	Terminal	protein_3_WP_014623172.1	protein_3_WP_043030194.1
+OG0000085	protein_3	n2	1.0	Terminal	protein_3_WP_042669846.1	protein_3_WP_154803666.1
+OG0000086	protein_3	n2	1.0	Terminal	protein_3_WP_014623198.1	protein_3_WP_154803678.1
+OG0000087	protein_2	n1	1.0	Terminal	protein_2_WP_041790494.1	protein_2_WP_012678175.1
+OG0000087	protein	n2	1.0	Terminal	protein_WP_014623247.1	protein_WP_014623245.1
+OG0000088	protein_2	n2	1.0	Terminal	protein_2_WP_111678543.1	protein_2_WP_111678583.1
+OG0000089	protein_3	n2	1.0	Terminal	protein_3_WP_043039290.1	protein_3_WP_154804162.1
+OG0000090	protein	n2	1.0	Terminal	protein_WP_014623503.1	protein_WP_014623622.1
+OG0000091	protein_2	n2	1.0	Terminal	protein_2_WP_206158959.1	protein_2_WP_014623564.1
+OG0000092	protein_3	n2	1.0	Terminal	protein_3_WP_154803926.1	protein_3_WP_154804327.1
+OG0000093	protein_2	n2	1.0	Terminal	protein_2_WP_015057294.1	protein_2_WP_043030202.1
+OG0000094	protein_2	n2	1.0	Terminal	protein_2_WP_111690020.1	protein_2_WP_012516391.1
+OG0000095	protein	n2	1.0	Terminal	protein_WP_014623632.1	protein_WP_158306818.1
+OG0000096	protein	n2	1.0	Terminal	protein_WP_038674551.1	protein_WP_021320372.1
+OG0000097	protein_2	n2	1.0	Terminal	protein_2_WP_021321066.1	protein_2_WP_015057302.1
+OG0000098	protein_2	n2	1.0	Terminal	protein_2_WP_012677440.1	protein_2_WP_037579874.1
+OG0000099	protein_3	n2	1.0	Terminal	protein_3_WP_154803567.1	protein_3_WP_154804160.1
+OG0000100	protein	n2	1.0	Terminal	protein_WP_038674150.1	protein_WP_038674613.1
+OG0000101	protein_3	n2	1.0	Terminal	protein_3_WP_232013935.1	protein_3_WP_232013933.1
+OG0000102	protein	n2	1.0	Terminal	protein_WP_154293433.1	protein_WP_038674437.1
+OG0000103	protein_3	n2	1.0	Terminal	protein_3_WP_111689780.1	protein_3_WP_154803670.1
+OG0000104	protein	n2	1.0	Terminal	protein_WP_041788167.1	protein_WP_038674875.1
+OG0000105	protein_3	n2	1.0	Terminal	protein_3_WP_154803713.1	protein_3_WP_154803891.1
+OG0000106	protein_2	n2	1.0	Terminal	protein_2_WP_206158945.1	protein_2_WP_206156369.1
+OG0000107	protein_3	n2	1.0	Terminal	protein_3_WP_197718037.1	protein_3_WP_154804217.1
+OG0000108	protein_3	n2	1.0	Terminal	protein_3_WP_043039190.1	protein_3_WP_111710247.1
+OG0000109	protein_3	n2	1.0	Terminal	protein_3_WP_172954505.1	protein_3_WP_012677494.1
+OG0000110	protein_2	n2	1.0	Terminal	protein_2_WP_111690000.1	protein_2_WP_206158993.1
+OG0000111	protein_3	n2	1.0	Terminal	protein_3_WP_154804230.1	protein_3_WP_154803852.1
+OG0000112	protein_3	n2	1.0	Terminal	protein_3_WP_154803982.1	protein_3_WP_012679055.1
+OG0000113	protein_3	n2	1.0	Terminal	protein_3_WP_154803676.1	protein_3_WP_154803674.1
+OG0000114	protein_2	n2	1.0	Terminal	protein_2_WP_206159095.1	protein_2_WP_172453717.1
+OG0000115	protein_2	n2	1.0	Terminal	protein_2_WP_111690014.1	protein_2_WP_231151223.1
+OG0000116	protein_3	n1	1.0	Terminal	protein_3_WP_154804348.1, protein_3_WP_232013916.1	protein_3_WP_154804346.1
+OG0000116	protein_3	n2	1.0	Terminal	protein_3_WP_154804348.1	protein_3_WP_232013916.1
+OG0000117	protein_3	n0	1.0	Terminal	protein_3_WP_111689777.1	protein_3_WP_042669845.1, protein_3_WP_154803667.1, protein_3_WP_154803665.1
+OG0000117	protein_3	n1	1.0	Terminal	protein_3_WP_042669845.1, protein_3_WP_154803667.1	protein_3_WP_154803665.1
+OG0000117	protein_3	n2	1.0	Terminal	protein_3_WP_042669845.1	protein_3_WP_154803667.1

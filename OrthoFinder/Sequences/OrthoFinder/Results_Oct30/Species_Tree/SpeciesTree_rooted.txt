@@ -1,0 +1,1 @@
+(protein:0.5,(protein_2:1,protein_3:1)1:0.5);

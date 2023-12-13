@@ -1,0 +1,13 @@
+2023-10-30 22:21:34 : Started OrthoFinder version 2.5.5
+Command Line: ./orthofinder -f Sequences
+
+WorkingDirectory_Base: /home/alexarancibia/Documents/Pipeline/OrthoFinder/Sequences/OrthoFinder/Results_Oct30/WorkingDirectory/
+
+Species used: 
+0: protein.faa
+1: protein_2.faa
+2: protein_3.faa
+
+FN_Orthogroups: /home/alexarancibia/Documents/Pipeline/OrthoFinder/Sequences/OrthoFinder/Results_Oct30/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /home/alexarancibia/Documents/Pipeline/OrthoFinder/Sequences/OrthoFinder/Results_Oct30/WorkingDirectory/
+2023-10-30 22:21:50 : OrthoFinder run completed

@@ -1,0 +1,100 @@
+	protein	protein_2	protein_3
+Number of genes	1930	1933	2037
+Number of genes in orthogroups	1847	1875	1972
+Number of unassigned genes	83	58	65
+Percentage of genes in orthogroups	95.7	97.0	96.8
+Percentage of unassigned genes	4.3	3.0	3.2
+Number of orthogroups containing species	1729	1771	1840
+Percentage of orthogroups containing species	91.9	94.2	97.8
+Number of species-specific orthogroups	8	5	5
+Number of genes in species-specific orthogroups	25	15	19
+Percentage of genes in species-specific orthogroups	1.3	0.8	0.9
+
+
+Number of genes per-species in orthogroup	Number of orthogroups	Number of orthogroups	Number of orthogroups
+'0	152	110	41
+'1	1652	1703	1750
+'2	57	52	71
+'3	11	10	11
+'4	4	2	3
+'5	2	0	2
+'6	1	1	0
+'7	0	1	1
+'8	2	1	1
+'9	0	1	0
+'10	0	0	1
+11-15	0	0	0
+16-20	0	0	0
+21-50	0	0	0
+51-100	0	0	0
+101-150	0	0	0
+151-200	0	0	0
+201-500	0	0	0
+501-1000	0	0	0
+'1001+	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of orthogroups	Percentage of orthogroups	Percentage of orthogroups
+'0	8.1	5.8	2.2
+'1	87.8	90.5	93.0
+'2	3.0	2.8	3.8
+'3	0.6	0.5	0.6
+'4	0.2	0.1	0.2
+'5	0.1	0.0	0.1
+'6	0.1	0.1	0.0
+'7	0.0	0.1	0.1
+'8	0.1	0.1	0.1
+'9	0.0	0.1	0.0
+'10	0.0	0.0	0.1
+11-15	0.0	0.0	0.0
+16-20	0.0	0.0	0.0
+21-50	0.0	0.0	0.0
+51-100	0.0	0.0	0.0
+101-150	0.0	0.0	0.0
+151-200	0.0	0.0	0.0
+201-500	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0
+
+Number of genes per-species in orthogroup	Number of genes	Number of genes	Number of genes
+'0	0	0	0
+'1	1652	1703	1750
+'2	114	104	142
+'3	33	30	33
+'4	16	8	12
+'5	10	0	10
+'6	6	6	0
+'7	0	7	7
+'8	16	8	8
+'9	0	9	0
+'10	0	0	10
+11-15	0	0	0
+16-20	0	0	0
+21-50	0	0	0
+51-100	0	0	0
+101-150	0	0	0
+151-200	0	0	0
+201-500	0	0	0
+501-1000	0	0	0
+'1001+	0	0	0
+
+Number of genes per-species in orthogroup	Percentage of genes	Percentage of genes	Percentage of genes
+'0	0.0	0.0	0.0
+'1	85.6	88.1	85.9
+'2	5.9	5.4	7.0
+'3	1.7	1.6	1.6
+'4	0.8	0.4	0.6
+'5	0.5	0.0	0.5
+'6	0.3	0.3	0.0
+'7	0.0	0.4	0.3
+'8	0.8	0.4	0.4
+'9	0.0	0.5	0.0
+'10	0.0	0.0	0.5
+11-15	0.0	0.0	0.0
+16-20	0.0	0.0	0.0
+21-50	0.0	0.0	0.0
+51-100	0.0	0.0	0.0
+101-150	0.0	0.0	0.0
+151-200	0.0	0.0	0.0
+201-500	0.0	0.0	0.0
+501-1000	0.0	0.0	0.0
+'1001+	0.0	0.0	0.0

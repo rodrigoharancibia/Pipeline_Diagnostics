@@ -1,0 +1,3 @@
+0: protein.faa
+1: protein_2.faa
+2: protein_3.faa
